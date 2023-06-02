@@ -1,0 +1,12 @@
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.cursor{
+    cursor: pointer !important;
+    color: white !important;
+}
+
+.fundo-navbar {
+    background-color: #2e2e52; 
+}

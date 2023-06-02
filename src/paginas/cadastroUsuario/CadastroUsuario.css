@@ -1,6 +1,19 @@
-.imagemCadastro {
-  background-image: url('https://assets-prd.ignimgs.com/2022/08/17/1-monkey-d-luffy-1660778366362.jpeg');
-  min-height: 100vh;
-  background-repeat: no-repeat;
-  background-size: cover;
+.imagem-cadastro {
+    background-image: url(https://genshin.global/wp-content/uploads/2023/01/wanderer-birthday-art-genshinimpact.jpg);
+    background-repeat: no-repeat;
+    width: 100vh; 
+    min-height: 150vh; 
+    background-size: cover; 
+    background-position: center
+}
+
+.text-decorator-nome {
+    text-decoration: none;
+}
+
+.botao2 {
+    font-weight: bold !important;
+    background-color: #2e2e52 !important; 
+    color: rgb(255, 255, 255) !important;
+    margin: 10px !important;
 }
