@@ -24,6 +24,8 @@ function ListaPostagens() {
     })
   }
   
+  // function ListaPostagem()
+  
   useEffect(() => {
     getPostagens()
   }, [])
