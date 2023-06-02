@@ -7,7 +7,7 @@
 }
 
 .imagem {
-        background-image: url(https://genshin.global/wp-content/uploads/2022/10/kazuha-autumn-maple-koki-fanart-wallpaper-genshin.jpg);
+        background-image: url(https://assets-prd.ignimgs.com/2022/08/17/1-monkey-d-luffy-1660778366362.jpeg);
         background-repeat: no-repeat;
         width: 100vh; 
         min-height: 150vh; 
@@ -18,5 +18,5 @@
 
 .botao {
     font-weight: bold !important;
-    background-color: #2e2e52 !important; 
+    background-color: #ff0000 !important; 
 }
